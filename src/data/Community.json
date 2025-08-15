@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Computer Science",
+    "logo": "CS"
+  },
+  {
+    "name": "Mathematics",
+    "logo": "≠"
+  },
+  {
+    "name": "Biology Club",
+    "logo": "Bio"
+  }, 
+  {
+    "name": "Art Society",
+    "logo": "Art"
+  },
+  {
+    "name": "Physics Club",
+    "logo": "Phy"
+  },
+  {
+    "name": "Chemistry Club",
+    "logo": "Chem"
+  },
+  {
+    "name": "Environmental Club",
+    "logo": "Env"
+  },
+  {
+    "name": "Debate Club",
+    "logo": "Deb"
+  },
+  {
+    "name": "Literature Club",
+    "logo": "Lit"
+  }
+]
